@@ -1,2 +1,2 @@
 # FlappyBird
-At least the program doesn't cheat and the clock doesn't change its heart
+msp430f5529上实现的小游戏
